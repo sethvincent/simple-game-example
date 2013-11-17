@@ -1,6 +1,6 @@
 # simple game example
 
-## a demo for a learnjs.io blog post
+## a demo for a [learnjs.io](http://learnjs.io) blog post
 
 Demo: http://sethvincent.github.io/simple-game-example
 
