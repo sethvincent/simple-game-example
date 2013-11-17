@@ -1,0 +1,23 @@
+{
+  "name": "simple-game-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "crtrdg-keyboard": "0.0.2",
+    "gameloop": "~0.1.1"
+  },
+  "devDependencies": {
+    "beefy": "~0.5.0",
+    "browserify": "~2.35.2"
+  },
+  "scripts": {
+    "start": "beefy game.js:bundle.js --live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "master"
+  },
+  "author": "",
+  "license": "MIT"
+}
